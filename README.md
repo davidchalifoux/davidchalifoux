@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello! 👋
+I'm David Chalifoux, a developer who loves the web.
 <!--
 **davidchalifoux/davidchalifoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
